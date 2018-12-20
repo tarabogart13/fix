@@ -20,10 +20,3 @@ GIT
 
 PLATFORMS
   ruby
-
-DEPENDENCIES 
-  connection_pool
-  dalli
-  spree (= 3.0.4)
-  spree_auth_devise!
-  spree_gateway!
