@@ -6,7 +6,7 @@
     "ruby",
     "salesforce"
   ],
-  "stack": "heroku-16"
+  "stack": "heroku-16",
   "website": "https://heroku.github.io/fix",
   "repository": "https://github.com/heroku/fix.git",
   "logo": "https://heroku.github.io/fix/images/fix-logotype.svg",
