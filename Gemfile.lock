@@ -359,9 +359,3 @@ DEPENDENCIES
   spring
   turbolinks
   uglifier (>= 1.3.0)
-
-RUBY VERSION
-   ruby 2.4.2p173
-
-BUNDLED WITH
-   1.12.3
