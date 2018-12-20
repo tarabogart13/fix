@@ -1,9 +1,6 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-gem 'puma'
-
-
 group :development, :test do
   gem "heroku_hatchet"
   gem "rspec-core"
@@ -11,6 +8,7 @@ group :development, :test do
   gem "excon"
   gem "rake"
   gem "parallel_tests"
+  gem 'puma'
   gem 'rspec-retry'
   gem "netrc"
   gem "git", github: "hone/ruby-git", branch: "master"
